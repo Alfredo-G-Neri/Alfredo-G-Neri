@@ -1,14 +1,11 @@
-## Hi there 👋
-
 # Jose Alfredo Gonzalez Neri
+### Data Analyst Jr | Business Intelligence | Revenue & KPI Analytics
 
-**Data Analyst Jr | Business Intelligence | Revenue & KPI Analytics**
+I am a data analyst focused on transforming data into actionable business insights. My professional background combines experience in finance, commercial strategy, and technology-driven environments, allowing me to approach data analysis with a strong business perspective.
 
-I am a data analyst focused on transforming raw data into meaningful business insights. My professional background combines experience in finance, commercial strategy, and technology-driven environments, allowing me to approach data analysis with a strong business perspective.
+I specialize in exploring datasets, identifying patterns, and translating complex data into insights that support data-driven decision-making. My work focuses on using tools such as Python, SQL, and advanced Excel to analyze business performance and uncover opportunities for optimization.
 
-I specialize in analyzing performance metrics, identifying patterns, and generating insights that support data-driven decision-making. My current work focuses on using tools such as SQL, Python, and advanced Excel to explore datasets, build analytical workflows, and evaluate business performance.
-
-I am particularly interested in Revenue Analytics, KPI monitoring, and Business Intelligence, where data can directly influence operational efficiency and strategic planning.
+I am particularly interested in **Revenue Analytics, KPI monitoring, and Business Intelligence**, where data can directly influence operational efficiency and strategic decision-making.
 
 ---
 
@@ -33,16 +30,24 @@ I am particularly interested in Revenue Analytics, KPI monitoring, and Business 
 
 ---
 
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alfredo-G-Neri&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-G-Neri&layout=compact)
+
+---
+
 ## Featured Projects
 
 ### Sales Funnel Analysis
-Analysis of conversion metrics across different stages of the sales funnel to identify performance bottlenecks and opportunities for optimization.
+Analysis of conversion metrics across multiple stages of a sales funnel to identify performance bottlenecks and optimization opportunities.
 
 ### E-commerce Revenue Analysis
-Exploratory analysis of transaction data to understand customer behavior, purchasing patterns, and revenue drivers.
+Exploratory data analysis of e-commerce transactions to identify purchasing behavior patterns and revenue drivers.
 
 ### Marketing Investment Performance
-Evaluation of marketing campaign performance using ROI and customer acquisition metrics.
+Evaluation of marketing campaigns using ROI and acquisition metrics to measure business impact.
 
 ---
 
