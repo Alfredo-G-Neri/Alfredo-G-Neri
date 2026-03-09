@@ -9,7 +9,17 @@ I am particularly interested in **Revenue Analytics, KPI monitoring, and Busines
 
 ---
 
-## Technical Skills
+## 📊 Data Analytics Focus
+
+- Business Intelligence
+- Revenue Analytics
+- KPI Monitoring
+- Data Exploration
+- Decision Support Analysis
+
+---
+
+## 🛠 Technical Skills
 
 **Programming & Data Analysis**
 - Python
@@ -30,7 +40,7 @@ I am particularly interested in **Revenue Analytics, KPI monitoring, and Busines
 
 ---
 
-## GitHub Activity
+## 📈 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alfredo-G-Neri&show_icons=true)
 
@@ -38,7 +48,7 @@ I am particularly interested in **Revenue Analytics, KPI monitoring, and Busines
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 ### Sales Funnel Analysis
 Analysis of conversion metrics across multiple stages of a sales funnel to identify performance bottlenecks and optimization opportunities.
@@ -51,7 +61,7 @@ Evaluation of marketing campaigns using ROI and acquisition metrics to measure b
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Advanced SQL for analytics
 - Data visualization techniques
@@ -59,7 +69,7 @@ Evaluation of marketing campaigns using ROI and acquisition metrics to measure b
 
 ---
 
-## Contact
+## 📫 Contact
 
 Email: **j.alfredo.gn1@gmail.com**  
 GitHub: **github.com/Alfredo-G-Neri**
